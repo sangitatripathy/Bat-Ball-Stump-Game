@@ -39,6 +39,5 @@ A fun browser-based mini game based on Rock-Paper-Scissors with a cricket twist 
 
 ```bash
 # Clone the repository
-git clone https://github.com/sangitatripathy/bat-ball-stump.git
-
+git clone https://github.com/sangitatripathy/Bat-Ball-Stump-Game.git
 # Open index.html manually in your browser
